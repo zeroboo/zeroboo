@@ -1,7 +1,7 @@
 ![Salute](./9000.gif "Salute")
-#It's over 9000, who are you?
+###It's over 9000, who are you? 😲
 
-### Hi there 👋
+### Hi there 
 
 <!--
 **zeroboo/zeroboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
