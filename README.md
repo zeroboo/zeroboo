@@ -1,3 +1,6 @@
+![Salute](./9000.gif "Salute")
+#It's over 9000, who are you?
+
 ### Hi there 👋
 
 <!--
